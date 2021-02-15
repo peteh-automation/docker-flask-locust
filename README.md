@@ -1,4 +1,4 @@
-# docker-flask-locust
+# docker-flask-locust - operationalizing microservices lesson 5
 A docker + flask + locust demo project
 
 [Flask + Locust YouTube Walkthrough](https://www.youtube.com/watch?v=bUEYe6AqlXE)
